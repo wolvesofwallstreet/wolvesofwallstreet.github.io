@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd09b556.chunk.css",
+    "main.js": "/static/js/main.312e67cc.chunk.js",
+    "main.js.map": "/static/js/main.312e67cc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0a15952b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0a15952b.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.6159c62e.chunk.js": "/static/js/2.6159c62e.chunk.js",
+    "static/js/2.6159c62e.chunk.js.map": "/static/js/2.6159c62e.chunk.js.map",
+    "static/js/3.c2467a04.chunk.js": "/static/js/3.c2467a04.chunk.js",
+    "static/js/3.c2467a04.chunk.js.map": "/static/js/3.c2467a04.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.fd09b556.chunk.css.map": "/static/css/main.fd09b556.chunk.css.map",
+    "static/js/2.6159c62e.chunk.js.LICENSE.txt": "/static/js/2.6159c62e.chunk.js.LICENSE.txt",
+    "static/media/info.css": "/static/media/banner_info.4364676d.jpg",
+    "static/media/presale.css": "/static/media/disable.099da940.ico",
+    "static/media/news.css": "/static/media/banner_wallstreet.05952268.jpg",
+    "static/media/howto.ecc19980.png": "/static/media/howto.ecc19980.png",
+    "static/media/howto_mobile.e2cfd5f2.png": "/static/media/howto_mobile.e2cfd5f2.png",
+    "static/media/icons_TG.e3e58f9f.svg": "/static/media/icons_TG.e3e58f9f.svg",
+    "static/media/icons_Twitter.b8aba8a1.svg": "/static/media/icons_Twitter.b8aba8a1.svg",
+    "static/media/icons_discord.e3adf3ed.svg": "/static/media/icons_discord.e3adf3ed.svg",
+    "static/media/icons_etherscan.ece3f2bb.svg": "/static/media/icons_etherscan.ece3f2bb.svg",
+    "static/media/icons_github.07a75d5f.svg": "/static/media/icons_github.07a75d5f.svg",
+    "static/media/logo_banner.662df8e3.png": "/static/media/logo_banner.662df8e3.png",
+    "static/media/logo_paper.53a077e2.png": "/static/media/logo_paper.53a077e2.png",
+    "static/media/logo_plan.1a0d7cd0.png": "/static/media/logo_plan.1a0d7cd0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a15952b.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.6159c62e.chunk.js",
+    "static/css/main.fd09b556.chunk.css",
+    "static/js/main.312e67cc.chunk.js"
+  ]
+}
