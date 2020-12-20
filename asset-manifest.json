@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd09b556.chunk.css",
-    "main.js": "/static/js/main.c7ca024c.chunk.js",
-    "main.js.map": "/static/js/main.c7ca024c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0a15952b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0a15952b.js.map",
+    "main.css": "/static/css/main.3146ed8e.chunk.css",
+    "main.js": "/static/js/main.1bf64ba1.chunk.js",
+    "main.js.map": "/static/js/main.1bf64ba1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0503d591.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0503d591.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.6159c62e.chunk.js": "/static/js/2.6159c62e.chunk.js",
-    "static/js/2.6159c62e.chunk.js.map": "/static/js/2.6159c62e.chunk.js.map",
-    "static/js/3.c2467a04.chunk.js": "/static/js/3.c2467a04.chunk.js",
-    "static/js/3.c2467a04.chunk.js.map": "/static/js/3.c2467a04.chunk.js.map",
+    "static/js/2.2fd4570b.chunk.js": "/static/js/2.2fd4570b.chunk.js",
+    "static/js/2.2fd4570b.chunk.js.map": "/static/js/2.2fd4570b.chunk.js.map",
+    "static/js/3.d452dc3e.chunk.js": "/static/js/3.d452dc3e.chunk.js",
+    "static/js/3.d452dc3e.chunk.js.map": "/static/js/3.d452dc3e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.fd09b556.chunk.css.map": "/static/css/main.fd09b556.chunk.css.map",
-    "static/js/2.6159c62e.chunk.js.LICENSE.txt": "/static/js/2.6159c62e.chunk.js.LICENSE.txt",
+    "static/css/main.3146ed8e.chunk.css.map": "/static/css/main.3146ed8e.chunk.css.map",
+    "static/js/2.2fd4570b.chunk.js.LICENSE.txt": "/static/js/2.2fd4570b.chunk.js.LICENSE.txt",
     "static/media/info.css": "/static/media/banner_info.4364676d.jpg",
     "static/media/presale.css": "/static/media/disable.099da940.ico",
     "static/media/news.css": "/static/media/banner_wallstreet.05952268.jpg",
@@ -29,10 +29,10 @@
     "static/media/logo_plan.1a0d7cd0.png": "/static/media/logo_plan.1a0d7cd0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a15952b.js",
+    "static/js/runtime-main.0503d591.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.6159c62e.chunk.js",
-    "static/css/main.fd09b556.chunk.css",
-    "static/js/main.c7ca024c.chunk.js"
+    "static/js/2.2fd4570b.chunk.js",
+    "static/css/main.3146ed8e.chunk.css",
+    "static/js/main.1bf64ba1.chunk.js"
   ]
 }
