@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a4c7389.chunk.css",
-    "main.js": "/static/js/main.c9ac57af.chunk.js",
-    "main.js.map": "/static/js/main.c9ac57af.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e408c382.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e408c382.js.map",
+    "main.css": "/static/css/main.57009e8d.chunk.css",
+    "main.js": "/static/js/main.a3fff36d.chunk.js",
+    "main.js.map": "/static/js/main.a3fff36d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a91dd909.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a91dd909.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.c46e86c4.chunk.js": "/static/js/2.c46e86c4.chunk.js",
-    "static/js/2.c46e86c4.chunk.js.map": "/static/js/2.c46e86c4.chunk.js.map",
-    "static/js/3.586b1ab5.chunk.js": "/static/js/3.586b1ab5.chunk.js",
-    "static/js/3.586b1ab5.chunk.js.map": "/static/js/3.586b1ab5.chunk.js.map",
+    "static/js/2.69aedf18.chunk.js": "/static/js/2.69aedf18.chunk.js",
+    "static/js/2.69aedf18.chunk.js.map": "/static/js/2.69aedf18.chunk.js.map",
+    "static/js/3.b453b047.chunk.js": "/static/js/3.b453b047.chunk.js",
+    "static/js/3.b453b047.chunk.js.map": "/static/js/3.b453b047.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.ae9f1eb3.chunk.css.map": "/static/css/2.ae9f1eb3.chunk.css.map",
-    "static/css/main.1a4c7389.chunk.css.map": "/static/css/main.1a4c7389.chunk.css.map",
-    "static/js/2.c46e86c4.chunk.js.LICENSE.txt": "/static/js/2.c46e86c4.chunk.js.LICENSE.txt",
+    "static/css/main.57009e8d.chunk.css.map": "/static/css/main.57009e8d.chunk.css.map",
+    "static/js/2.69aedf18.chunk.js.LICENSE.txt": "/static/js/2.69aedf18.chunk.js.LICENSE.txt",
     "static/media/presale.css": "/static/media/circle_orange.2d46f89b.svg",
     "static/media/icons_TG.e3e58f9f.svg": "/static/media/icons_TG.e3e58f9f.svg",
     "static/media/icons_Twitter.b8aba8a1.svg": "/static/media/icons_Twitter.b8aba8a1.svg",
@@ -24,10 +24,10 @@
     "static/media/wolves_sft_logo.1bd16c76.svg": "/static/media/wolves_sft_logo.1bd16c76.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e408c382.js",
+    "static/js/runtime-main.a91dd909.js",
     "static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.c46e86c4.chunk.js",
-    "static/css/main.1a4c7389.chunk.css",
-    "static/js/main.c9ac57af.chunk.js"
+    "static/js/2.69aedf18.chunk.js",
+    "static/css/main.57009e8d.chunk.css",
+    "static/js/main.a3fff36d.chunk.js"
   ]
 }
