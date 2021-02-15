@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.81642b71.chunk.css",
-    "main.js": "/static/js/main.22e109a7.chunk.js",
-    "main.js.map": "/static/js/main.22e109a7.chunk.js.map",
+    "main.css": "/static/css/main.367b77e2.chunk.css",
+    "main.js": "/static/js/main.59d7056e.chunk.js",
+    "main.js.map": "/static/js/main.59d7056e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3e2a2107.js",
     "runtime-main.js.map": "/static/js/runtime-main.3e2a2107.js.map",
     "static/css/2.d5b8b7d2.chunk.css": "/static/css/2.d5b8b7d2.chunk.css",
-    "static/js/2.cc8cffa2.chunk.js": "/static/js/2.cc8cffa2.chunk.js",
-    "static/js/2.cc8cffa2.chunk.js.map": "/static/js/2.cc8cffa2.chunk.js.map",
+    "static/js/2.6d60f338.chunk.js": "/static/js/2.6d60f338.chunk.js",
+    "static/js/2.6d60f338.chunk.js.map": "/static/js/2.6d60f338.chunk.js.map",
     "static/js/3.162ec7dd.chunk.js": "/static/js/3.162ec7dd.chunk.js",
     "static/js/3.162ec7dd.chunk.js.map": "/static/js/3.162ec7dd.chunk.js.map",
     "static/js/4.0a4c68d6.chunk.js": "/static/js/4.0a4c68d6.chunk.js",
     "static/js/4.0a4c68d6.chunk.js.map": "/static/js/4.0a4c68d6.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.d5b8b7d2.chunk.css.map": "/static/css/2.d5b8b7d2.chunk.css.map",
-    "static/css/main.81642b71.chunk.css.map": "/static/css/main.81642b71.chunk.css.map",
-    "static/js/2.cc8cffa2.chunk.js.LICENSE.txt": "/static/js/2.cc8cffa2.chunk.js.LICENSE.txt",
+    "static/css/main.367b77e2.chunk.css.map": "/static/css/main.367b77e2.chunk.css.map",
+    "static/js/2.6d60f338.chunk.js.LICENSE.txt": "/static/js/2.6d60f338.chunk.js.LICENSE.txt",
     "static/media/presale.css": "/static/media/circle_orange.2d46f89b.svg",
     "static/media/stake.css": "/static/media/banner_stake.75cb3fbd.jpg",
     "static/media/icons_TG.e3e58f9f.svg": "/static/media/icons_TG.e3e58f9f.svg",
@@ -24,13 +24,14 @@
     "static/media/icons_etherscan.ece3f2bb.svg": "/static/media/icons_etherscan.ece3f2bb.svg",
     "static/media/icons_github.07a75d5f.svg": "/static/media/icons_github.07a75d5f.svg",
     "static/media/wolves-token_233.5ec472ec.png": "/static/media/wolves-token_233.5ec472ec.png",
+    "static/media/wolves_logo_dapp.3e7ffc49.png": "/static/media/wolves_logo_dapp.3e7ffc49.png",
     "static/media/wolves_sft_logo.1bd16c76.svg": "/static/media/wolves_sft_logo.1bd16c76.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3e2a2107.js",
     "static/css/2.d5b8b7d2.chunk.css",
-    "static/js/2.cc8cffa2.chunk.js",
-    "static/css/main.81642b71.chunk.css",
-    "static/js/main.22e109a7.chunk.js"
+    "static/js/2.6d60f338.chunk.js",
+    "static/css/main.367b77e2.chunk.css",
+    "static/js/main.59d7056e.chunk.js"
   ]
 }
