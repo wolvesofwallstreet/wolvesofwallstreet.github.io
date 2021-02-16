@@ -1,30 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.74b8ef3e.chunk.css",
-    "main.js": "/static/js/main.8ffe3246.chunk.js",
-    "main.js.map": "/static/js/main.8ffe3246.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.58815dc2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.58815dc2.js.map",
+    "main.js": "/static/js/main.2dd81684.chunk.js",
+    "main.js.map": "/static/js/main.2dd81684.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.15344eb8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.15344eb8.js.map",
     "static/css/2.d5b8b7d2.chunk.css": "/static/css/2.d5b8b7d2.chunk.css",
-    "static/js/2.2a745572.chunk.js": "/static/js/2.2a745572.chunk.js",
-    "static/js/2.2a745572.chunk.js.map": "/static/js/2.2a745572.chunk.js.map",
-    "static/js/3.4681a1e4.chunk.js": "/static/js/3.4681a1e4.chunk.js",
-    "static/js/3.4681a1e4.chunk.js.map": "/static/js/3.4681a1e4.chunk.js.map",
-    "static/js/4.fc570126.chunk.js": "/static/js/4.fc570126.chunk.js",
-    "static/js/4.fc570126.chunk.js.map": "/static/js/4.fc570126.chunk.js.map",
+    "static/js/2.ab62b9cf.chunk.js": "/static/js/2.ab62b9cf.chunk.js",
+    "static/js/2.ab62b9cf.chunk.js.map": "/static/js/2.ab62b9cf.chunk.js.map",
+    "static/js/3.50a1b964.chunk.js": "/static/js/3.50a1b964.chunk.js",
+    "static/js/3.50a1b964.chunk.js.map": "/static/js/3.50a1b964.chunk.js.map",
+    "static/js/4.c2ead07c.chunk.js": "/static/js/4.c2ead07c.chunk.js",
+    "static/js/4.c2ead07c.chunk.js.map": "/static/js/4.c2ead07c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.d5b8b7d2.chunk.css.map": "/static/css/2.d5b8b7d2.chunk.css.map",
     "static/css/main.74b8ef3e.chunk.css.map": "/static/css/main.74b8ef3e.chunk.css.map",
-    "static/js/2.2a745572.chunk.js.LICENSE.txt": "/static/js/2.2a745572.chunk.js.LICENSE.txt",
+    "static/js/2.ab62b9cf.chunk.js.LICENSE.txt": "/static/js/2.ab62b9cf.chunk.js.LICENSE.txt",
     "static/media/stake.css": "/static/media/banner_stake.75cb3fbd.jpg",
     "static/media/wolves_logo_dapp.3e7ffc49.png": "/static/media/wolves_logo_dapp.3e7ffc49.png",
     "static/media/wolves_sft_logo.1bd16c76.svg": "/static/media/wolves_sft_logo.1bd16c76.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.58815dc2.js",
+    "static/js/runtime-main.15344eb8.js",
     "static/css/2.d5b8b7d2.chunk.css",
-    "static/js/2.2a745572.chunk.js",
+    "static/js/2.ab62b9cf.chunk.js",
     "static/css/main.74b8ef3e.chunk.css",
-    "static/js/main.8ffe3246.chunk.js"
+    "static/js/main.2dd81684.chunk.js"
   ]
 }
