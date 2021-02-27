@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.05340255.chunk.css",
+    "main.css": "/static/css/main.e2d6ae66.chunk.css",
     "main.js": "/static/js/main.699884dd.chunk.js",
     "main.js.map": "/static/js/main.699884dd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b8439c8b.js",
@@ -18,7 +18,7 @@
     "static/js/6.f813728a.chunk.js.map": "/static/js/6.f813728a.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.d5b8b7d2.chunk.css.map": "/static/css/2.d5b8b7d2.chunk.css.map",
-    "static/css/main.05340255.chunk.css.map": "/static/css/main.05340255.chunk.css.map",
+    "static/css/main.e2d6ae66.chunk.css.map": "/static/css/main.e2d6ae66.chunk.css.map",
     "static/js/2.0504df8c.chunk.js.LICENSE.txt": "/static/js/2.0504df8c.chunk.js.LICENSE.txt",
     "static/media/stake.css": "/static/media/banner_stake.75cb3fbd.jpg",
     "static/media/bois_shadow.b0ae95a7.png": "/static/media/bois_shadow.b0ae95a7.png",
@@ -27,7 +27,7 @@
     "static/media/icons_discord.e3adf3ed.svg": "/static/media/icons_discord.e3adf3ed.svg",
     "static/media/icons_etherscan.ece3f2bb.svg": "/static/media/icons_etherscan.ece3f2bb.svg",
     "static/media/icons_github.07a75d5f.svg": "/static/media/icons_github.07a75d5f.svg",
-    "static/media/cardbox.css": "/static/media/loading-animated.62746178.gif",
+    "static/media/cardbox.css": "/static/media/loading_animated.62746178.gif",
     "static/media/logo.ac917530.png": "/static/media/logo.ac917530.png",
     "static/media/page3.css": "/static/media/page1_right.ddfa7de5.jpg",
     "static/media/wolves_logo_dapp.3e7ffc49.png": "/static/media/wolves_logo_dapp.3e7ffc49.png",
@@ -38,7 +38,7 @@
     "static/js/runtime-main.b8439c8b.js",
     "static/css/2.d5b8b7d2.chunk.css",
     "static/js/2.0504df8c.chunk.js",
-    "static/css/main.05340255.chunk.css",
+    "static/css/main.e2d6ae66.chunk.css",
     "static/js/main.699884dd.chunk.js"
   ]
 }
