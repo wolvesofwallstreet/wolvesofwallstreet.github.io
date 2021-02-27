@@ -1,2 +1,0 @@
-(this["webpackJsonpwolves.finance"]=this["webpackJsonpwolves.finance"]||[]).push([[4],{644:function(e){e.exports=JSON.parse('[{"name":"STARTER LICENCE","header":"STARTER LICENCE 1/100 RARITY - 25% PROFIT REWARD - 25% RAIDING POTENTIAL - APY: 230%","cards":[{"name":"WARG THE WATCHER","motto":"FILL IT OR KILL IT","quantity":100,"price":20,"type":"image","url":"https://github.com/videvago/wolves.assets/raw/main/cards/wolves/level1/warg.png"}]}]')}}]);
-//# sourceMappingURL=4.fb437078.chunk.js.map
